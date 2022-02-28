@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhammadjaziem
 - 👀 I’m interested in Coding, Testing and DevOps
-- 🌱 I’m currently learning Vue and Laravel
-- 💞️ I’m looking to collaborate on any Vue/Laravel Developers and Automation Testers
+- 🌱 I’m currently learning React and Laravel
+- 💞️ I’m looking to collaborate on any React/Laravel Developers and Automation Testers
 - 📫 You may reach me through my email muhammadjaziem@hotmail.com.
 
 <!---
